@@ -2,7 +2,7 @@
 
 Collection of interesting videos about software engineering. Conference talks as well as shorter videos. High-Level stuff as well as concrete "Let's Code" videos.
 
-## Software architecture
+## Software Architecture
 
 ### Stefan Tilkov (https://www.innoq.com/de/staff/stefan-tilkov/)
 
@@ -17,17 +17,21 @@ Collection of interesting videos about software engineering. Conference talks as
 
 - [CRUD als Antipattern](https://www.youtube.com/watch?v=frUNFrP7C9w) - CRUD hat keine Semantik. Wie macht man es besser?
 
-## Software development (miscellanous)
+
+### Others
+
+- [https://www.youtube.com/watch?v=rUDN40rdly8](Design Patterns: Why Event Sourcing?) - (Greg Young) - Event sourcing.
+## Software Development (miscellanous)
 
 - [ID, UUID & Co. im Vergleich](https://www.youtube.com/watch?v=cEWlm-iXeF8&t=18s)
 - 
-## Organisationen, Entwicklungsprozesse, Methoden
+## Organiations, Development Process, Methods
 
 ### Eberhard Wolff
 
 - [Das Spotify-Modell gibt es gar nicht.](https://www.youtube.com/watch?v=I63tgkMCDUw) - Interessantes über das Spotify-Modell zur agilen Skalierung, was es ist, was oft vergessen wird bei der Verwendung, etc.
 
-## Hands on tutorials
+## Hands-On Tutorials
 
 ### Golo Roden
 - [Developers deep dive](https://www.youtube.com/playlist?list=PL6QrD7_cU23kuUAl8WMgV98Wi9lykoITV) - Tolle, leicht nachvollziehbare und unterhaltsame Einführungen in JavaScript, Node, TypeScript, Go, Docker, TDD, Webassembly und vieles mehr.
