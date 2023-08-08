@@ -20,11 +20,11 @@ Collection of interesting videos about software engineering. Conference talks as
 
 ### Others
 
-- [https://www.youtube.com/watch?v=rUDN40rdly8](Design Patterns: Why Event Sourcing?) - (Greg Young) - Event sourcing.
+- [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8) - (Greg Young) - Event sourcing.
 ## Software Development (miscellanous)
 
 - [ID, UUID & Co. im Vergleich](https://www.youtube.com/watch?v=cEWlm-iXeF8&t=18s)
-- 
+
 ## Organiations, Development Process, Methods
 
 ### Eberhard Wolff
