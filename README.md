@@ -21,7 +21,7 @@ Collection of interesting videos about software engineering. Conference talks as
 
 ### Eberhard Wolff
 
-- [https://www.youtube.com/watch?v=I63tgkMCDUw](Das Spotify-Modell gibt es gar nich.) - interessantes über das Spotify-Modell zur agilen Skalierung, was es ist, was oft vergessen wird bei der Verwendung und mehr.
+- [Das Spotify-Modell gibt es gar nicht.](https://www.youtube.com/watch?v=I63tgkMCDUw) - interessantes über das Spotify-Modell zur agilen Skalierung, was es ist, was oft vergessen wird bei der Verwendung und mehr.
 
 ## Hands on tutorials
 
