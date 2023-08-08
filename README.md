@@ -11,10 +11,17 @@ Collection of interesting videos about software engineering. Conference talks as
 
 ### Eberhard Wolff
 
-- [Modularierung: Grundlage für Microservices und Monolithen](https://www.youtube.com/watch?v=BaLvYwS14I4) - what's really important is how you cut your modules, not if they run in different processes or all in the same process (*German language*).
+- [Modularierung: Grundlage für Microservices und Monolithen](https://www.youtube.com/watch?v=BaLvYwS14I4) - es ist wichtig, wie man Module schneidet, nicht ob sie alle im gleichen Prozess laufen oder jedes in einem eigenen.
+
+### Golo Roden
+
+- [CRUD als Antipattern](https://www.youtube.com/watch?v=frUNFrP7C9w) - CRUD hat keine Semantik. Wie macht man es besser?
 
 ## Hands on tutorials
 
 ### Golo Roden
-- [Developers deep dive](https://www.youtube.com/playlist?list=PL6QrD7_cU23kuUAl8WMgV98Wi9lykoITV) - Great, easy-to follow and well-explained introductions to JavaScript, Node, TypeScript, Go, Docker, TDD, Webassembly and much more (*German language*).
+- [Developers deep dive](https://www.youtube.com/playlist?list=PL6QrD7_cU23kuUAl8WMgV98Wi9lykoITV) - Tolle, leicht nachvollziehbare und unterhaltsame Einführungen in JavaScript, Node, TypeScript, Go, Docker, TDD, Webassembly und vieles mehr.
 
+### Eberhard Wolff
+
+- [Wir bauen eine Softwareachitektur](https://www.youtube.com/watch?v=-FCkp1aJzRY) - Hands-on Beispiel, womit man beim Erstellen einer Softwarearchitektur sinnvollerweise beginnen kann (Kontextdiagramm, Qualitätsszenarien).
