@@ -8,6 +8,9 @@ Collection of interesting videos about software engineering. Conference talks as
 
 - [Software archtecture for developers Pt. 2](https://youtu.be/gDlE4q3mozY) - Discussion with Simon Brown about C4 model mostly.
 - [Is Domain-Driven Design Overrated?](https://www.youtube.com/watch?v=ZZp9RQEGeqQ) - While a big fan of DDD, the speaker points out potential problems and alternatives.
+- ["Good Enough" Architecture Part 1](https://www.youtube.com/watch?v=RtRpL3Ndi0c) - case studies of "architectural antipatterns".
+- ["Good Enough" Architecture Part 2](https://www.youtube.com/watch?v=nbqh1EK_FU8) - case studies of "architectural antipatterns".
+- [REST: I don't Think it Means What You Think it Does](https://www.youtube.com/watch?v=pspy1H6A3FM)
 
 ### Eberhard Wolff
 
