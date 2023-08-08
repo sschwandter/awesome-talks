@@ -17,6 +17,12 @@ Collection of interesting videos about software engineering. Conference talks as
 
 - [CRUD als Antipattern](https://www.youtube.com/watch?v=frUNFrP7C9w) - CRUD hat keine Semantik. Wie macht man es besser?
 
+## Organisationen, Entwicklungsprozesse, Methoden
+
+### Eberhard Wolff
+
+- [https://www.youtube.com/watch?v=I63tgkMCDUw](Das Spotify-Modell gibt es gar nich.) - interessantes über das Spotify-Modell zur agilen Skalierung, was es ist, was oft vergessen wird bei der Verwendung und mehr.
+
 ## Hands on tutorials
 
 ### Golo Roden
