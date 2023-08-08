@@ -1,5 +1,6 @@
 # awesome-talks
-Collection of interesting talks
+
+Collection of interesting videos about software engineering. Conference talks as well as shorter videos. High-Level stuff as well as concrete "Let's Code" videos.
 
 ## Software architecture
 
@@ -11,4 +12,9 @@ Collection of interesting talks
 ### Eberhard Wolff
 
 - [Modularierung: Grundlage für Microservices und Monolithen](https://www.youtube.com/watch?v=BaLvYwS14I4) - die passende Modularisierung ist das eigentlich wichtige.
+
+## Hands on tutorials
+
+### Golo Roden
+- [Developers deep dive](https://www.youtube.com/playlist?list=PL6QrD7_cU23kuUAl8WMgV98Wi9lykoITV) - Great, easy-to follow and well-explained introductions to JavaScript, Node, TypeScript, Go, Docker, ...
 
