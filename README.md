@@ -28,7 +28,7 @@ Collection of interesting videos about software engineering. Conference talks as
 
 - [ID, UUID & Co. im Vergleich](https://www.youtube.com/watch?v=cEWlm-iXeF8&t=18s)
 
-## Organiations, Development Process, Methods
+## Organizations, Development Process, Methods
 
 ### Eberhard Wolff
 
